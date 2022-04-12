@@ -1,1 +1,1 @@
-![Image of Yogitocat](https://octodex.github.com/yogitocat/)
+![Image of Yogitocat](https://octodex.github.com/images/yogitocat.png)
